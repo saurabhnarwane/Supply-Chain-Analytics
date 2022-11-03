@@ -50,6 +50,22 @@ So now I am excited to take on this challenge and build this dashboard and perfo
 
 ## Analyses Pages
 
+Overview Analysis -
+
+![Slide3](https://user-images.githubusercontent.com/58877807/199787804-0ccfe041-6ac6-46a9-834c-d6c8c6f8e651.JPG)
+
+KPI Based Analysis -
+
+![Slide4](https://user-images.githubusercontent.com/58877807/199787816-5a6c4471-9ae6-46b3-a7c4-e13448fc1651.JPG)
+
+Product Analysis -
+
+![Slide5](https://user-images.githubusercontent.com/58877807/199787818-8d023ba5-326d-4d84-bf03-c3bc5bf6a6e5.JPG)
+
+Customer Analysis -
+
+![Slide6](https://user-images.githubusercontent.com/58877807/199787819-bb09b611-5008-4ccf-95fc-129e8604e5ec.JPG)
+
 ## Insights Pages
 
 ## Recommendations Pages
