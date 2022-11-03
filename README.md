@@ -68,7 +68,28 @@ Customer Analysis -
 
 ## Insights Pages
 
+Insights 1 -
+
+![Slide7](https://user-images.githubusercontent.com/58877807/199788651-17569b76-2563-41e9-a8ca-504bd6a7d55f.JPG)
+
+Insights 2 -
+
+![Slide8](https://user-images.githubusercontent.com/58877807/199788673-4d897cb6-d81c-410e-a3dd-5b2855b47667.JPG)
+
+Insights 3 -
+
+![Slide9](https://user-images.githubusercontent.com/58877807/199788706-832f4bbf-eb72-4d63-aad9-28d42f42e0c3.JPG)
+
+
 ## Recommendations Pages
+
+City-wise Recommendations
+
+![Slide10](https://user-images.githubusercontent.com/58877807/199789010-8a3539fc-ec65-4567-acf3-d45504d850a8.JPG)
+
+Product-wise Recommendations
+
+![Slide11](https://user-images.githubusercontent.com/58877807/199789024-9d38f3c2-c2b7-4c3e-9147-90bd80a46eaf.JPG)
 
 ## Final Insights
 
