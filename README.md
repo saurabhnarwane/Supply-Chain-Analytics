@@ -46,6 +46,8 @@ So now I am excited to take on this challenge and build this dashboard and perfo
 
 ## Data Model
 
+![Data Model](https://user-images.githubusercontent.com/58877807/199785407-857dd977-002a-45fa-80c3-5b9cf4d7da06.png)
+
 ## Analyses Pages
 
 ## Insights Pages
