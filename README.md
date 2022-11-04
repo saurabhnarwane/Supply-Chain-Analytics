@@ -43,6 +43,12 @@ So now I am excited to take on this challenge and build this dashboard and perfo
 6. Customer Order Cycle Time (COCT)
 7. Delay in Delivery (DID)
 
+### Topic Distribution
+
+1. Background Information
+2. Anlyses
+3. Insights
+4. Recommendations
 
 ## Data Model
 
