@@ -3,6 +3,12 @@
 
 The analysis is done for the supply chain domain of 'AtliQ Mart,' an FMCG company, where the no. of customers renewing the contract is decreasing. The company is present in Vadodara, Surat, and Ahmedabad city and sells its various products in the Dairy, Food, and Beverages Categories. And the stakeholders are the director and head of the supply chain of 'AtliQ Mart.'
 
+For Challenge - [Click Here](https://codebasics.io/event/codebasics-resume-project-challenge)
+
+For LinkedIn Post - [Click Here]()
+
+To Interact with my Dashboard - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMGQzMzM3ZmQtYWFmZC00M2UxLTkxZjYtZjNjNGE0MWExMmUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection9d986cec21fd22d13b9f)
+
 ##  Problem Statement
 
 
