@@ -52,7 +52,7 @@ So now I am excited to take on this challenge and build this dashboard and perfo
 ### Topic Distribution
 
 1. Background Information
-2. Anlyses
+2. Analyses
 3. Insights
 4. Recommendations
 
